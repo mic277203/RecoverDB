@@ -1,0 +1,9 @@
+E:\linph\MyProject\RecoverDB\RecoverDB\bin\Debug\RecoverDB.exe.config
+E:\linph\MyProject\RecoverDB\RecoverDB\bin\Debug\RecoverDB.exe
+E:\linph\MyProject\RecoverDB\RecoverDB\bin\Debug\RecoverDB.pdb
+E:\linph\MyProject\RecoverDB\RecoverDB\bin\Debug\MySql.Data.dll
+E:\linph\MyProject\RecoverDB\RecoverDB\obj\Debug\RecoverDB.csprojResolveAssemblyReference.cache
+E:\linph\MyProject\RecoverDB\RecoverDB\obj\Debug\RecoverDB.exe
+E:\linph\MyProject\RecoverDB\RecoverDB\obj\Debug\RecoverDB.pdb
+E:\linph\MyProject\RecoverDB\RecoverDB\bin\Debug\Newtonsoft.Json.dll
+E:\linph\MyProject\RecoverDB\RecoverDB\bin\Debug\Newtonsoft.Json.xml
